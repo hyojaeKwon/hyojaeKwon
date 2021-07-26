@@ -1,3 +1,3 @@
 <div align-center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyojaeKwon-GIST20%2FHyojaeKwon-GIST20&count_bg=%23C9A5D9&title_bg=%23D738D0&icon=&icon_color=%2370C0B6&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyojaeKwon-GIST20&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
