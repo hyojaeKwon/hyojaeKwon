@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=SlacklogoColor=white"/>
   <br>
   <br>
-   
+   <br>
+
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaeKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
