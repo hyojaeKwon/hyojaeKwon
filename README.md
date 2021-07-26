@@ -1,8 +1,8 @@
-<h2>🍀NICE TO MEET YOU👋</h2>
+<h2>🍀NICE TO MEET YOU</h2>
 <br>
 <div align="center">
    <br>
-  👋<h2>Hello!</h2>👋<br>I am Hyojae Kwon, 2nd grade in GIST College and majored in Computer Science💻 <br>
+   <h2>👋Hello!👋</h2><br>I am Hyojae Kwon, 2nd grade in GIST College and majored in Computer Science💻 <br>
 Tomorrow will be ✨<b>code-brighter</b>✨ than today.
   <br>
   <br>
