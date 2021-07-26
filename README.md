@@ -2,7 +2,7 @@
 <br>
 <div align="center">
    <br>
-   <h2>👋Hello!👋</h2><br>I am Hyojae Kwon, 2nd grade in GIST College and majored in Computer Science💻 <br>
+   <h2>👋Hello!👋</h2><br><h3>I am Hyojae Kwon, 2nd grade in GIST College and majored in Computer Science💻</h3> <br>
 Tomorrow will be ✨<b>code-brighter</b>✨ than today.
   <br>
   <br>
@@ -14,7 +14,7 @@ Tomorrow will be ✨<b>code-brighter</b>✨ than today.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyojaeKwon-GIST20)](https://github.com/anuraghazra/github-readme-stats)
   <br><br><br>
-  <h3>My Tech Stack</h3>
+  <h2>My Tech Stack</h2>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
