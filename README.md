@@ -42,5 +42,5 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj010909)](https://s
     <br>
     <br>
 
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2hyojaekwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%hyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
 </div>
