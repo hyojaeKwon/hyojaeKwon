@@ -2,7 +2,7 @@
 <br>
 <div align="center">
    <br>
-   <h2>👋Hello!👋</h2><br><h3>I am Hyojae Kwon, 2nd grade in GIST College and majored in Computer Science💻</h3>
+   <h2>👋Hello!👋</h2><br><h3>I am Hyojae Kwon, junior in GIST College and majored in Computer Science💻</h3>
    <h4>Tomorrow will be ✨<b>code-brighter</b>✨ than today.</h4>
   <br>
   <br> 
