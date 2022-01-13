@@ -37,7 +37,7 @@
   <br>
   <br>
    <br>
-<div>
+<div display="flex">
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaeKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
