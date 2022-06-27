@@ -36,11 +36,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojaeKwon)](https://github.com/anuraghazra/github-readme-stats)
  
    </div>
-   
-  [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj010909)](https://solved.ac/khj010909)
-    <br>
-    <br>
     <br>
 
    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
