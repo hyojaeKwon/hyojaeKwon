@@ -1,15 +1,15 @@
 
- ## Hello! I’m Hyojae Kwon
-  I am junior and majored in **Computer Science** at Gwangju Institude of Science and Technology *GIST*
-  Want to be a ***FANCY*** Front Engineer
+ ## Hello! I’m Hyojae Kwon🙌
+  I'm majored in **Computer Science** at Gwangju Institude of Science and Technology *GIST* <br/>
+  Want to be a ***💫FANCY💫*** Front Engineer🧑‍💻
   
- ## Currently Interested in ... 
+ ### Currently Interested in ... 
  - Software with **Good influence** on our society
  - **Reasonable** and reuseable code
  - User friendly UX design in **Universal Devices**
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
-## Tech Stacks
+### Tech Stacks
 **FrontEnd**
  * **React.js** 
  * Flutter
@@ -26,12 +26,12 @@
 * Github actions
 * Nginx : now Studing
 
-## Cowork Tools
+### Cowork Tools
  * Github
  * Figma
  * Linear
 
-## Currently Working On
+### Currently Working On
 * CloudStone AI team Intern
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaeKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
