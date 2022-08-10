@@ -14,32 +14,29 @@
 
 
 **FrontEnd**
-
-
  * **React.js** 
  * Flutter
  * TypeScript 
  * Dart
  * HTML, CSS, JS
 
+
 **BackEnd** 
-
-
 * Nest.js
 * TypeScript
 
+
 **Dev Ops**
-
-
 * Docker
 * Github actions
 * Nginx : now Studing
 
-### Cowork Tools
 
+### Cowork Tools
  * Github
  * Figma
  * Linear
+
 
 ### Currently Working On
 
