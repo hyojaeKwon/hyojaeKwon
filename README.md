@@ -4,6 +4,8 @@
   
   Want to be a ***💫FANCY💫*** Front Engineer🧑‍💻
   
+  More Informations => [My Resume](https://canyon-blender-491.notion.site/348a863fac3b4dc8b964cd6e9bc6fbc2)
+  
   
  ## Currently Interested in ... 
  - Software with **Good influence** on our society
