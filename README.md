@@ -35,7 +35,7 @@
 ## Currently Working On
 
 * CloudStone AI team Intern
-* [Team Gijol](https://github.com/Gijol,"Team Gijol Github")
+* [Gijol] (https://github.com/Gijol)
 
 
    
