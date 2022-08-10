@@ -11,22 +11,27 @@
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
 ## Tech Stacks
-#### FrontEnd**
+<div align="left">
+#### FrontEnd
  * **React.js** 
  * Flutter
  * TypeScript 
  * Dart
  * HTML, CSS, JS
+</div>
 
-#### BackEnd** 
+ <div align="center">
+#### BackEnd
 * Nest.js
 * TypeScript
-
-#### Dev Ops**
+ </div>
+ 
+ <div align="right">
+#### Dev Ops
 * Docker
 * Github actions
 * Nginx : now Studing
-
+ </div>
 #### Cowork Tools
  * Github
  * Figma
@@ -43,5 +48,4 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojaeKwon)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-
-[![MyHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)]</div>
+![MyHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)</div>
