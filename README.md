@@ -11,29 +11,23 @@
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
 ## Tech Stacks
-<div sytle="display:flex;">
-<div align="left">
 #### FrontEnd
  * **React.js** 
  * Flutter
  * TypeScript 
  * Dart
  * HTML, CSS, JS
-</div>
-
- <div align="center">
-<h4>BackEnd</h4>
+ 
+#### BackEnd
 * Nest.js
 * TypeScript
  </div>
  
- <div align="right">
 #### Dev Ops
 * Docker
 * Github actions
 * Nginx : now Studing
- </div>
- </div>
+
 #### Cowork Tools
  * Github
  * Figma
