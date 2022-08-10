@@ -36,6 +36,7 @@
 
 * CloudStone AI team Intern
 * [Gijol] (https://github.com/Gijol)
+* [Gijol](https://github.com/Gijol)
 
 
    
