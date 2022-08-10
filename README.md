@@ -4,48 +4,41 @@
   
   Want to be a ***💫FANCY💫*** Front Engineer🧑‍💻
   
- ### Currently Interested in ... 
+ ## Currently Interested in ... 
  - Software with **Good influence** on our society
  - **Reasonable** and reuseable code
  - User friendly UX design in **Universal Devices**
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
-### Tech Stacks
-
-
-**FrontEnd**
+## Tech Stacks
+#### FrontEnd**
  * **React.js** 
  * Flutter
  * TypeScript 
  * Dart
  * HTML, CSS, JS
 
-
-**BackEnd** 
+#### BackEnd** 
 * Nest.js
 * TypeScript
 
-
-**Dev Ops**
+#### Dev Ops**
 * Docker
 * Github actions
 * Nginx : now Studing
 
-
-### Cowork Tools
+#### Cowork Tools
  * Github
  * Figma
  * Linear
 
-
-### Currently Working On
+## Currently Working On
 
 * CloudStone AI team Intern
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaeKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojaeKwon)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+* [Team Gijol](https://github.com/Gijol,"Team Gijol Github")
 
-   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
+
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojaeKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojaeKwon)](https://github.com/anuraghazra/github-readme-stats)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
