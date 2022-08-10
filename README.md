@@ -11,7 +11,7 @@
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
 ## Tech Stacks
-<div display="flex">
+<div sytle="display:flex;">
 <div align="left">
 #### FrontEnd
  * **React.js** 
