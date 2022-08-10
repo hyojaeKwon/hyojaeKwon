@@ -11,7 +11,7 @@
  - Software with **Good influence** on our society
  - **Reasonable** and reuseable code
  - User friendly UX design in **Universal Target**
- - **harmonious** team / Smooth **communication** / **Agile** workflow
+ - **Harmonious** team / Smooth **communication** / **Agile** workflow
 
 ## Tech Stacks
 #### FrontEnd
