@@ -2,9 +2,9 @@
 <br>
 <div align="center">
    <br>
-   # 👋Hello!👋
-   ## I'm Hyojae Kwon, majored in Computer Science💻 at GIST
+   # Hello!👋
 
+   ## I’m Hyojae Kwon, majored in Computer Science at GIST
   <br>
   <br> 
   <h2>My Tech Stack💪</h2>
