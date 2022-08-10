@@ -1,6 +1,6 @@
-<h2>🍀NICE TO MEET YOU</h2>
-<br>
- # Hello!👋
+## Nice to meet you
+
+ # Hello!
  ## I’m Hyojae Kwon, majored in Computer Science at GIST
 
  ## Currently Interested in ... 
