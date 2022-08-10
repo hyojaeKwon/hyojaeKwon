@@ -10,7 +10,7 @@
  - **harmonious** team / Smooth **communication** / **Agile** workflow
 
 ## Tech Stacks
-**FrontEnd 
+**FrontEnd**
  * **React.js** 
  * Flutter
  * TypeScript 
