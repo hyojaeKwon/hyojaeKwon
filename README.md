@@ -35,7 +35,6 @@
 ## Currently Working On
 
 * CloudStone AI team Intern
-* [Gijol] (https://github.com/Gijol)
 * [Gijol](https://github.com/Gijol)
 
 
@@ -45,5 +44,5 @@
 
 <div align="center">
  <br/>
-![MyHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
+[MyHits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyojaeKwon&count_bg=%23EF78ED&title_bg=%23A600FD&icon=airbus.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
 </div>
