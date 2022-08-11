@@ -1,6 +1,6 @@
 
  ## Hello! I’m Hyojae Kwon🙌
-  I'm majored in **Computer Science** at Gwangju Institude of Science and Technology *GIST* 
+  Majored in **Computer Science** at Gwangju Institude of Science and Technology *GIST* 
   
   Want to be a ***💫FANCY💫*** Software Engineer🧑‍💻
   
