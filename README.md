@@ -2,7 +2,7 @@
  ## Hello! I’m Hyojae Kwon🙌
   I'm majored in **Computer Science** at Gwangju Institude of Science and Technology *GIST* 
   
-  Want to be a ***💫FANCY💫*** Front Engineer🧑‍💻
+  Want to be a ***💫FANCY💫*** Software Engineer🧑‍💻
   
   More Informations => [In Korean](https://canyon-blender-491.notion.site/348a863fac3b4dc8b964cd6e9bc6fbc2)
   
